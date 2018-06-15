@@ -1,0 +1,14 @@
+C:\Users\p171100\source\repos\CreateSignedDoc\CreateSignedDoc\obj\Debug\CreateSignedDoc.csprojAssemblyReference.cache
+C:\Users\p171100\source\repos\CreateSignedDoc\CreateSignedDoc\obj\Debug\CreateSignedDoc.csproj.CoreCompileInputs.cache
+C:\Users\p171100\source\repos\CreateSignedDoc\CreateSignedDoc\bin\Debug\CreateSignedDoc.exe.config
+C:\Users\p171100\source\repos\CreateSignedDoc\CreateSignedDoc\bin\Debug\CreateSignedDoc.exe
+C:\Users\p171100\source\repos\CreateSignedDoc\CreateSignedDoc\bin\Debug\CreateSignedDoc.pdb
+C:\Users\p171100\source\repos\CreateSignedDoc\CreateSignedDoc\obj\Debug\CreateSignedDoc.exe
+C:\Users\p171100\source\repos\CreateSignedDoc\CreateSignedDoc\obj\Debug\CreateSignedDoc.pdb
+C:\Users\p171100\Desktop\x509Cert\CreateSignedDoc\CreateSignedDoc\bin\Debug\CreateSignedDoc.exe.config
+C:\Users\p171100\Desktop\x509Cert\CreateSignedDoc\CreateSignedDoc\bin\Debug\CreateSignedDoc.exe
+C:\Users\p171100\Desktop\x509Cert\CreateSignedDoc\CreateSignedDoc\bin\Debug\CreateSignedDoc.pdb
+C:\Users\p171100\Desktop\x509Cert\CreateSignedDoc\CreateSignedDoc\obj\Debug\CreateSignedDoc.csprojAssemblyReference.cache
+C:\Users\p171100\Desktop\x509Cert\CreateSignedDoc\CreateSignedDoc\obj\Debug\CreateSignedDoc.csproj.CoreCompileInputs.cache
+C:\Users\p171100\Desktop\x509Cert\CreateSignedDoc\CreateSignedDoc\obj\Debug\CreateSignedDoc.exe
+C:\Users\p171100\Desktop\x509Cert\CreateSignedDoc\CreateSignedDoc\obj\Debug\CreateSignedDoc.pdb

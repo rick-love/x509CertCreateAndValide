@@ -1,0 +1,14 @@
+C:\Users\p171100\source\repos\ValidateSignedDoc\ValidateSignedDoc\bin\Debug\ValidateSignedDoc.exe.config
+C:\Users\p171100\source\repos\ValidateSignedDoc\ValidateSignedDoc\bin\Debug\ValidateSignedDoc.exe
+C:\Users\p171100\source\repos\ValidateSignedDoc\ValidateSignedDoc\bin\Debug\ValidateSignedDoc.pdb
+C:\Users\p171100\source\repos\ValidateSignedDoc\ValidateSignedDoc\obj\Debug\ValidateSignedDoc.csprojAssemblyReference.cache
+C:\Users\p171100\source\repos\ValidateSignedDoc\ValidateSignedDoc\obj\Debug\ValidateSignedDoc.csproj.CoreCompileInputs.cache
+C:\Users\p171100\source\repos\ValidateSignedDoc\ValidateSignedDoc\obj\Debug\ValidateSignedDoc.exe
+C:\Users\p171100\source\repos\ValidateSignedDoc\ValidateSignedDoc\obj\Debug\ValidateSignedDoc.pdb
+C:\Users\p171100\Desktop\x509Cert\ValidateSignedDoc\ValidateSignedDoc\bin\Debug\ValidateSignedDoc.exe.config
+C:\Users\p171100\Desktop\x509Cert\ValidateSignedDoc\ValidateSignedDoc\bin\Debug\ValidateSignedDoc.exe
+C:\Users\p171100\Desktop\x509Cert\ValidateSignedDoc\ValidateSignedDoc\bin\Debug\ValidateSignedDoc.pdb
+C:\Users\p171100\Desktop\x509Cert\ValidateSignedDoc\ValidateSignedDoc\obj\Debug\ValidateSignedDoc.csprojAssemblyReference.cache
+C:\Users\p171100\Desktop\x509Cert\ValidateSignedDoc\ValidateSignedDoc\obj\Debug\ValidateSignedDoc.csproj.CoreCompileInputs.cache
+C:\Users\p171100\Desktop\x509Cert\ValidateSignedDoc\ValidateSignedDoc\obj\Debug\ValidateSignedDoc.exe
+C:\Users\p171100\Desktop\x509Cert\ValidateSignedDoc\ValidateSignedDoc\obj\Debug\ValidateSignedDoc.pdb
